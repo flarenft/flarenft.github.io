@@ -124,7 +124,7 @@ module.exports = {
         f_78:'Confirming the Upgrade',
 
         m_1:'Home',
-        m_2:'Data mining',
+        m_2:'Hash data',
         m_3:'Node data',
         m_4:'NFT card',
         m_5:'Language',
