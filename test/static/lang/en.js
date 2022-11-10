@@ -113,7 +113,15 @@ module.exports = {
         f_72:'Casting NFT',
         f_73:'Number of casting',
 
-
+        
+        f_76:'Important Notice',
+        f_77:'Flare shareholders, Flare has completed the linkage of social products, chain vendor products and other ecological products, please update your data immediately!',
+        f_77_1:'1. The expected upgrade time is 2022/11/11 02:00:00-14:00:00. Data cannot be synchronized after the expiration date.',
+        f_77_2:'2. Click the upgrade button to complete the smart contract data synchronization. If the data is not synchronized, the benefits will be abandoned.',
+        f_77_3:'3. Flare Social downloads at：http://flaremetas.com',
+        f_77_4:'4. Regular users need to spend 20% of the USDT to activate their account. For more details, please follow the official Twitter.',
+        f_77_5:'The upgraded waiting function is open, thank you for your trust and support! A Flare DAO',
+        f_78:'Confirming the Upgrade',
 
         m_1:'Home',
         m_2:'Data mining',
