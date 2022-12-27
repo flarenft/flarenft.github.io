@@ -115,7 +115,7 @@ module.exports = {
 
         
         f_76:'Important Notice',
-        f_77:'Dear Meta Flare Consensus, hello! In order to better present the ecological application of our social products (http://flaremetas.com) and chain business products, we have upgraded the new smart contract, and at the same time we need to migrate the original smart contract data. We apologize for the inconvenience caused to everyone during this period, and thank you for your trust and understanding. Estimated upgrade completion time: 2022/11/15 00:00:00:, upgrade contents:',
+        f_77:'Flare Consensus members around the world are pleased to inform you that Tomo Web3.0 is coming soon, and will be available on January 3, 2023, opening a new Tomo ecosystem! On December 29, 2022, Flare DApp plans to migrate to Tomo Web3.0 for better performance and lower overhead.',
         f_77_1:'1. New contract goes live to destroy 9 billion Flares, leaving 1 billion left, and will destroy another 500 million when social users reach 1 million!',
         f_77_2:'2. The total amount of NFT was constant 10,000 pieces, and all the unissued 40,000 pieces were destroyed.',
         f_77_3:'3. Previously held Flare user assets will be mapped 1:1, and it is expected to be mapped to the original user wallet address from 12:00:00 on 2022/11/14.',
@@ -123,10 +123,18 @@ module.exports = {
         f_77_4:'Thanks for having you, the future world of Meta Flare will be more and more wonderful! Let is create the glory of Web3.0 era together!',
         f_77_5:'The new Flare contract address is:0x6867d4a17f3ff5602024b7c2a33df2fd9aeafcfe',
         f_77_6:'The upgraded waiting function is open, thank you for your trust and support!一 Flare DAO',
-        f_78:'Confirming the Upgrade',
+        f_78:'CLOSE',
         f_79:'You can re-invest at most',
         f_80:'hashrate',
         f_81:'Please do not upgrade contract consensus, upgrade immediately!',
+
+
+        f_82:'USDT authorization limit',
+        f_83:'USDT authorization status',
+        f_84:'unauthorized',
+        f_85:'authorized',
+        f_86:'Cancel authorization',
+        f_87:'FLARE Smart Eco Contract is audited by a professional audit firm! Please global consensus to protect their private keys, mnemonics, passwords, etc. do not leak, and do not click on unofficial malicious authorization.',
 
 
         m_1:'Home',
