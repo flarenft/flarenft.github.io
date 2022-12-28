@@ -115,12 +115,12 @@ module.exports = {
 
         
         f_76:'Important Notice',
-        f_77:'Flare Consensus members around the world are pleased to inform you that Tomo Web3.0 is coming soon, and will be available on January 3, 2023, opening a new Tomo ecosystem! On December 29, 2022, Flare DApp plans to migrate to Tomo Web3.0 for better performance and lower overhead.',
-        f_77_1:'1. New contract goes live to destroy 9 billion Flares, leaving 1 billion left, and will destroy another 500 million when social users reach 1 million!',
-        f_77_2:'2. The total amount of NFT was constant 10,000 pieces, and all the unissued 40,000 pieces were destroyed.',
-        f_77_3:'3. Previously held Flare user assets will be mapped 1:1, and it is expected to be mapped to the original user wallet address from 12:00:00 on 2022/11/14.',
-        f_77_3_1:'4, synchronization, start a new domain name: https://flarenft.github.io, new domain experience preferred released the latest products and news release.',
-        f_77_4:'Thanks for having you, the future world of Meta Flare will be more and more wonderful! Let is create the glory of Web3.0 era together!',
+        f_77:'Hello, Flare consensus members around the world, we are pleased to inform you that the Flare DApp Eco-Smart Contract system is scheduled to migrate to Tomo Web3.0 on December 29, 2022 starting at 00 o clock! This update is as follows:',
+        f_77_1:'1, Tomo Web3.0 public chain hit! Officially launched on January 3, 2023, Tomo opens a new ecosystem! Independent Tomo wallet, Tomo browser, Tomo cross-chain bridge!',
+        f_77_2:'2. After the Flare DApp upgrade, it will run on the Tomo Web3.0 public chain for better security, better performance, and lower handling charges!',
+        f_77_3:'3. Flare DApp does not settle revenue during the upgrade period to avoid data disturbance! Please stop transfer, trading, investment and other related operations.',
+        f_77_3_1:'4. Flare DApp has upgraded its security mechanism so that [USDT contract authorization] can be cancelled within the system at any time when security requirements arise.',
+        f_77_4:'5. The Flare Ecosystem already has the world is first Flare Web3 social platform, ChainShopping Web3 shopping platform.',
         f_77_5:'The new Flare contract address is:0x6867d4a17f3ff5602024b7c2a33df2fd9aeafcfe',
         f_77_6:'The upgraded waiting function is open, thank you for your trust and support!一 Flare DAO',
         f_78:'CLOSE',
