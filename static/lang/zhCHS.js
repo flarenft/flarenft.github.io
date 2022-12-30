@@ -160,6 +160,7 @@ module.exports = {
         copyFail:"复制失败！",
         dealSuccee:"交易成功！",
         dealSuccee2:"领取成功！",
+        dealSuccee3:"取消成功！",
         noBanner:"余额不足！",
         gas:"gas费不足！",
         pack:"打包中...",

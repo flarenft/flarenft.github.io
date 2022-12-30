@@ -160,6 +160,7 @@ module.exports = {
         copyFail:"Replication failed!",
         dealSuccee:"The deal is done!",
         dealSuccee2:"Claim success!",
+        dealSuccee3:"Cancel successfully!",
         noBanner:"Insufficient balance!",
         gas:"Insufficient GAS fee!",
         pack:"packaging...",
