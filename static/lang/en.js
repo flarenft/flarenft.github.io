@@ -115,9 +115,9 @@ module.exports = {
 
         
         f_76:'Important Notice',
-        f_77:'Dear Meta Flare users: Our system is being upgraded and maintained for you to have better product experience and safe network environment.',
-        f_77_1:'Tomo Web3.0 public chain officially launched on January 3, 2023! Tomo Wallet already supports BSC chain, ETH chain USDT cross-chain function!',
-        f_77_2:'The Flare DApp Smart Contract system will be extended to start mapping assets to Tomo Web3.0 between January 6 and January 8, 2023! ',
+        f_77:'Dear Meta Flare users: ',
+        f_77_1:'Tomo Web3.0 public chain has been officially launched, the start of public beta! Tomo Wallet related tutorials will be updated in the documentation, welcome all users into the world of Tomo Web3.0! Tomo Wallet Public beta: https://www.tomoweb3.io/#/',
+        f_77_2:'The Flare DApp Smart Contract system will map assets to Tomo Web3.0 between January 6 and January 8, 2023! ',
         f_77_3:'This upgrade will include new public chain, wallet, social, media, NFT exchange, metauniverse and DAO community. Due to mapping Flare, NFT and DApp data, some infrastructure, basic tools and data transfer need to be deployed. We will release Roadmap of various complete roadmap later.',
         f_77_3_1:'Meta Flare will work with you to build and experience a perfect, powerful, new web3 and meta-universe ecology. The era of Web3 has just arrived. Meta Flare will be the leader of this new world.',
         f_77_4:'Thank you all for your patience. We will meet you soon. We will set sail in the New Year! 2023 We will create a legend! ~',
