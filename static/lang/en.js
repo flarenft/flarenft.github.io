@@ -125,6 +125,7 @@ module.exports = {
         f_77_5:'Thanks to the trust of all participants, Meta Flare will work with you to build and experience a perfect, powerful and brand new Web3 and meta-universe ecology! We Meta Flare will be the leaders of this new world!',
         f_77_6:'已升级完成的等待功能开放，感谢您的信任与支持！一 Flare DAO',
         f_78:'Upgrade',
+        f_78_1:'Close',
         f_79:'You can re-invest at most',
         f_80:'hashrate',
         f_81:'Please do not upgrade contract consensus, upgrade immediately!',
